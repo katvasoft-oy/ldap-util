@@ -14,7 +14,7 @@ Currently it allows:
 
 # How-TO
 
-Create file called : **application.properties**
+Create file called : **application.properties** in same directory as the jar-file is situated
 
 Example ->
 ```properties   
